@@ -48,7 +48,7 @@ sudo a2enmod rewrite
 echo "-- Creating virtual hosts --"
 #sudo ln -fs /vagrant/public/ /var/www/app
 cat << EOF | sudo tee -a /etc/apache2/sites-available/default-ssl.conf
-<Directory "/var/www/html">
+<Directory "/var/www/html/phpmyadmin">
     AllowOverride All
 </Directory>
 <VirtualHost *:443>
