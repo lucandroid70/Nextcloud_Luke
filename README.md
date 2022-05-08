@@ -19,24 +19,21 @@ Mysql: root:root
 
 
 
-my site https://http://testnet70.22web.org/
+# my site http://http://testnet70.22web.org/
 
 
 If you would offer, here : 
 
 
 
-BTC:
-bc1q8fqds50khunasvu2tjq8fgatwjjur7g703w9g4
+# BTC:  bc1q8fqds50khunasvu2tjq8fgatwjjur7g703w9g4
 
 
-TRON:
-TMpBJTgnDDNfpMnUvUbQ2oDZRoTs8Tif2H
+# TRON:  TMpBJTgnDDNfpMnUvUbQ2oDZRoTs8Tif2H
 
 
-BNB Smart Chain BEP20 
-0xFc499bbA2f15514f620979A6222fDf3ce11f2B9f
+# BNB Smart Chain BEP20:   0xFc499bbA2f15514f620979A6222fDf3ce11f2B9f
 
-Binance Coin BEP2:
-bnb188jqufdgumt0lcyhr4mpn3pkl6dhl9dneu6asf
+
+# Binance Coin BEP2: bnb188jqufdgumt0lcyhr4mpn3pkl6dhl9dneu6asf
 
