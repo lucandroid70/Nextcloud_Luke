@@ -19,7 +19,7 @@ Mysql: root:root
 
 
 
-# my site http://http://testnet70.22web.org/
+# my site http://testnet70.22web.org/
 
 
 If you would offer, here : 
